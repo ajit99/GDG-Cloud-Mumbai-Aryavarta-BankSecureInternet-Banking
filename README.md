@@ -2,12 +2,33 @@
   Customer ID ARYA001
   Password  password123
 =======================================
-  Aryavarta BankSecure Internet Banking Portal login
-  Customer ID ARYA001
-  Password  password123
-  
-  Aryavarta Bank - Secure Internet Banking Portal Overview Aryavarta Bank’s Secure Internet Banking Portal is a modern, responsive web application that enables customers to manage their accounts, perform transactions, and access banking services online. The application includes modules for Accounts, Payments & Transfers, Cards, Investments, Loans, Insurance, Trade Finance, Risk Management, and Open Banking. Features • Secure Login Page with Customer ID and Password • Dashboard with Account Summary, Quick Actions, and Recent Transactions • Payments & Transfers (Domestic, International, Bulk Payments, Bill Payments, UPI) • Card Management (Credit, Debit, Security Settings, Controls, and Rewards) • Investments & Wealth Management (Mutual Funds, Stocks, ETFs, Bonds, and Portfolio) • Loans (Apply, Track Accounts, Loan Calculator, Eligibility Check) • Insurance (Policy Management, Premium Payments, Claims) • Risk Management & Compliance Tools • Open Banking APIs for third-party integrations • Customer Support Chat Module • Responsive Design for desktop, tablet, and mobile devices Tech Stack • Frontend: HTML5, CSS3 (with modern gradients & responsive design), JavaScript • Icons & Fonts: Font Awesome, Google Fonts (Inter) • No external backend included (static demo version) Getting Started Prerequisites • Web Browser (Chrome, Firefox, Edge, Safari) • A local web server is optional (e.g., Apache, Nginx, or VS Code Live Server) Installation
+  Aryavarta Bank - Secure Internet Banking Portal
+Quick Start Guide
+Overview:
+Aryavarta Bank’s Secure Internet Banking Portal is a demo web application to showcase online banking features like Accounts, Payments, Cards, Investments, Loans, and more.
+Features:
+•	Secure Login with Customer ID & Password
+•	Dashboard with Account Summary & Transactions
+•	Payments & Transfers (IMPS, NEFT, RTGS, UPI, Bill Payments)
+•	Card & Loan Management
+•	Investments & Insurance
+•	Risk Management & Open Banking APIs
+•	Responsive Design for mobile & desktop
+Tech Stack:
+•	HTML5, CSS3, JavaScript
+•	Fonts & Icons: Google Fonts (Inter), Font Awesome
+•	Static Demo (No backend integration)
+Installation:
+1.	Download or clone the project.
+2.	Open Aryavarta BankSecureInternet Banking.html in your browser.
+3.	Use the sample credentials below.
+Sample Credentials:
+•	Customer ID: ARYA001
+•	Password: password123
+Security Tips:
+•	Do not share credentials.
+•	Verify the official domain.
+•	Logout after each session.
+Disclaimer:
+This is a demo prototype for educational use only. It does not connect to any real banking system.
 
-Clone or download the project.
-Open the file Aryavarta BankSecureInternet Banking.html in a web browser.
-Login using the sample credentials provided below. Sample Login Credentials • Customer ID: ARYA001 • Password: password123 readme Note: These credentials are for demo purposes only. Security Tips • Never share your login credentials. 
