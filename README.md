@@ -14,21 +14,10 @@ Features:
 •	Investments & Insurance
 •	Risk Management & Open Banking APIs
 •	Responsive Design for mobile & desktop
-Tech Stack:
-•	HTML5, CSS3, JavaScript
-•	Fonts & Icons: Google Fonts (Inter), Font Awesome
-•	Static Demo (No backend integration)
-Installation:
-1.	Download or clone the project.
-2.	Open Aryavarta BankSecureInternet Banking.html in your browser.
-3.	Use the sample credentials below.
+
+
 Sample Credentials:
 •	Customer ID: ARYA001
 •	Password: password123
-Security Tips:
-•	Do not share credentials.
-•	Verify the official domain.
-•	Logout after each session.
-Disclaimer:
-This is a demo prototype for educational use only. It does not connect to any real banking system.
+
 
